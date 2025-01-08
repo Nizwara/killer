@@ -46,7 +46,7 @@ Kode ini masih perlu banyak perbaikan, jadi silahkan berkontribusi dan berikan P
 ## Instant
 
 Klik tombol di bawah  
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/FoolVPN-ID/Nautica)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Nizwara/killer)
 
 ## Manual
 
@@ -58,7 +58,7 @@ Klik tombol di bawah
 6. Deploy
 7. Buka `https://DOMAIN_WORKER_KALIAN/sub`
 
-- Contoh daftar proxy [proxyList.txt](https://raw.githubusercontent.com/dickymuliafiqri/Nautica/refs/heads/main/proxyList.txt)
+- Contoh daftar proxy [proxyList.txt](https://raw.githubusercontent.com/dickymuliafiqri/Nizwara/refs/heads/main/proxyList.txt)
 - Contoh reverse proxy [example.com](https://example.com)
 
 ## Cara Aktivasi API
